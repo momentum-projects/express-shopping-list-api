@@ -22,6 +22,10 @@ Your first task is to build an Express app that provides the RESTful endpoints t
 
 Replace the content of this README with the documentation for your endpoints. You can use [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) syntax to format your documentation.
 
+Use the MongoDB Cloud Atlas cluster that you have already set up for your database. Use Mongoose to set up the schema and model for a ShoppingList. Then, build the RESTful endpoints that will enable a client to manage CRUD for the shopping lists. **You should be able to create, read, update, and delete shopping lists using the endpoints you build.**
+
+It is not necessary to include items on a shopping list, yet.
+
 ### Accessing your API
 
 You should create a file called `endpoints.rest` in your repo that you can use with the REST Client extension in VS Codium to test your API endpoints.
